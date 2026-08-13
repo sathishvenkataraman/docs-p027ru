@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-1f0f2i.syndicatealpha.ai/sitemap.xml
